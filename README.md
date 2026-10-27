@@ -1,6 +1,6 @@
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=4000&pause=1000&color=5eead4&center=true&vCenter=true&width=700&lines=¡Hola!+Soy+Tonatiuh+👋;Desarrollador+Full-Stack;Experto+en+Bases+de+Datos+Oracle+%2F+PL%2FSQL;Construyo+sistemas+empresariales+robustos" alt="Typing SVG" />
-</h1>
+</h1> 
 
 <p align="center">
   <img src="https://img.shields.io/badge/FullStack-Developer-5eead4?style=for-the-badge&logo=codepen&logoColor=white" alt="FullStack Developer" />
