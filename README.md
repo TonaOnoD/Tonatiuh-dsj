@@ -57,10 +57,10 @@ Características principales:
 - Administración integral del flujo clínico
 
 <p align="left">
-  <a href="https://github.com/YOUR_USERNAME">
+  <a href="https://github.com/TonaOnoD">
     <img src="https://img.shields.io/badge/Repositorio-100000?style=for-the-badge&logo=github&logoColor=white" alt="Repositorio" />
   </a>
-  <a href="https://github.com/YOUR_USERNAME?tab=repositories">
+  <a href="https://github.com/TonaOnoD?tab=repositories">
     <img src="https://img.shields.io/badge/Más_Proyectos-181717?style=for-the-badge&logo=github&logoColor=white" alt="Más proyectos" />
   </a>
 </p>
@@ -68,18 +68,18 @@ Características principales:
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=TonaOnoD&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TonaOnoD&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://streak-stats.demolab.com?user=TonaOnoD&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ## Contacto
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_PROFILE">
+  <a href="https://www.linkedin.com/in/tonatiuh-ollin-de-santiago-juárez-3598611b9">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:tonatiuhdsj@gmail.com">
@@ -92,5 +92,5 @@ Características principales:
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=5eead4&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=TonaOnoD&color=5eead4&style=flat-square" alt="Profile Views" />
 </p>
